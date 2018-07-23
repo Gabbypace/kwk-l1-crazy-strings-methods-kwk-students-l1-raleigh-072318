@@ -1,5 +1,6 @@
 # write your method here
-"hello".upcase "friends".swapcase
+"hello".upcase
+
 def crazy_strings(a,b)
 
 end
